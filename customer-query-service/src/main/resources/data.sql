@@ -1,0 +1,1 @@
+INSERT INTO customer(customer_id, customer_address, email, first_name, last_name, phone, acknowledgeFlag) VALUES (1, 'Rainbow Apartments', 'xy@hotmail.com', 'Test 1', 'Last Name Test 1 ','99999','N')
